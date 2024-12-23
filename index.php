@@ -51,7 +51,7 @@ if (isset($_POST['name'])) {
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img class="bg" src="bg1.jpg" alt="IIT Kharagpur">
+    <img class="hyderbad" src="hyderbad.jpg" alt="IIT Kharagpur">
     <div class="container">
         <h1>Welcome to JSPM, Hadpsar Hyderabad Trip Form</h1>
         <p>Enter your details and submit this form to confirm your participation in the trip</p>
